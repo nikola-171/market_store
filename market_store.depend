@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1603879691 source:/home/nikola/Desktop/market/market_store/main.cpp
+	"IDiscount_card.h"
+	"Market_store.h"
+	"Bronze_card.h"
+	"Silver_card.h"
+	"Gold_card.h"
+
+1603791567 /home/nikola/Desktop/market/market_store/header.h
+	<iostream>
+
+1603792348 /home/nikola/Desktop/market/market_store/market.h
+	<iostream>
+
+1603879006 /home/nikola/Desktop/market/market_store/Market_store.h
+	"IDiscount_card.h"
+
+1603878109 /home/nikola/Desktop/market/market_store/IDiscount_card.h
+	"Negative_turnover.h"
+	"No_client_exception.h"
+	"Client.h"
+
+1603876948 /home/nikola/Desktop/market/market_store/Client.h
+
+1603879665 /home/nikola/Desktop/market/market_store/Bronze_card.h
+	"IDiscount_card.h"
+
+1603879713 /home/nikola/Desktop/market/market_store/Silver_card.h
+	"IDiscount_card.h"
+
+1603878110 /home/nikola/Desktop/market/market_store/Gold_card.h
+	"IDiscount_card.h"
+
+1603816449 /home/nikola/Desktop/market/market_store/Exception.h
+	<iostream>
+	<exception>
+
+1603816691 /home/nikola/Desktop/market/market_store/No_client_exception.h
+	<iostream>
+	<exception>
+
+1603875890 /home/nikola/Desktop/market/market_store/Negative_turnover.h
+	<exception>
+
