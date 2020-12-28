@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1609153445 source:c:\users\nikol\desktop\market_store\main.cpp
+	"IDiscount_card.h"
+	"Market_store.h"
+	"Bronze_card.h"
+	"Silver_card.h"
+	"Gold_card.h"
+
+1609149942 source:c:\users\nikol\desktop\market_store\src\idiscount_card.cpp
+	"IDiscount_card.h"
+
+1609150804 c:\users\nikol\desktop\market_store\include\idiscount_card.h
+	"Negative_turnover.h"
+	"No_client_exception.h"
+	"Client.h"
+
+1609150710 c:\users\nikol\desktop\market_store\include\negative_turnover.h
+	<exception>
+
+1609150860 c:\users\nikol\desktop\market_store\include\no_client_exception.h
+	<exception>
+	<iostream>
+
+1609150411 c:\users\nikol\desktop\market_store\include\client.h
+
+1609150095 source:c:\users\nikol\desktop\market_store\src\bronze_card.cpp
+	"Bronze_card.h"
+
+1609150176 c:\users\nikol\desktop\market_store\include\bronze_card.h
+	<IDiscount_card.h>
+
+1609150411 source:c:\users\nikol\desktop\market_store\src\client.cpp
+	"Client.h"
+
+1609153373 source:c:\users\nikol\desktop\market_store\src\gold_card.cpp
+	"Gold_card.h"
+
+1609153807 c:\users\nikol\desktop\market_store\include\gold_card.h
+	<IDiscount_card.h>
+
+1609150533 source:c:\users\nikol\desktop\market_store\src\market_store.cpp
+	"Market_store.h"
+
+1609150840 c:\users\nikol\desktop\market_store\include\market_store.h
+	"IDiscount_card.h"
+
+1609150708 source:c:\users\nikol\desktop\market_store\src\negative_turnover.cpp
+	"Negative_turnover.h"
+
+1609150763 source:c:\users\nikol\desktop\market_store\src\no_client_exception.cpp
+	"No_client_exception.h"
+
+1609150454 source:c:\users\nikol\desktop\market_store\src\silver_card.cpp
+	"Silver_card.h"
+
+1609150450 c:\users\nikol\desktop\market_store\include\silver_card.h
+	<IDiscount_card.h>
+
